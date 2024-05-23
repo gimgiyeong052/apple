@@ -2,4 +2,4 @@
 
 Apple fullPage.js Demo
 
-https://aebonlee.github.io/Apple_phone/
+https://gimgiyeong052.github.io/apple/
